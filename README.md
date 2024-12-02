@@ -11,4 +11,5 @@ Results Published in this [LessWrong Post](https://www.lesswrong.com/posts/WwxG8
 Worked on a feature steering problem encouraging chain-of-thought reasoning in Llama-8b and 80b models.
 
 [Our Submission](https://www.apartresearch.com/project/encouraging-chain-of-thought-reasoning)
+
 [Code](https://github.com/ThomasWalker1/reprogramming_ai_models)

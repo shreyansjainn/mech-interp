@@ -13,3 +13,9 @@ Worked on a feature steering problem encouraging chain-of-thought reasoning in L
 [Our Submission](https://www.apartresearch.com/project/encouraging-chain-of-thought-reasoning)
 
 [Code](https://github.com/ThomasWalker1/reprogramming_ai_models)
+
+# Feature Geometry in Toy models
+
+Analyzing factors affecting Feature Geometry in Toy Models
+
+[Blog Post](https://shreyansjainn.github.io/blog/2025/pentagon-feature-geometry/)
